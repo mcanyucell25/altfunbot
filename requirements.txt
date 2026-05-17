@@ -1,0 +1,8 @@
+python-telegram-bot==21.3
+hyperliquid-python-sdk==0.8.1
+aiosqlite
+aiohttp
+web3
+requests
+eth-account
+python-dotenv
